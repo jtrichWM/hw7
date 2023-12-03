@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hw7"
+  site-url: "https://jtrichWM.github.io/hw7"
+  description: "example description"
+  repo-branch: main
+  repo-url: "https://github.com/jtrichWM/hw7"
